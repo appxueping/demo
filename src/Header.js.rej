@@ -1,0 +1,9 @@
+diff a/src/Header.js b/src/Header.js	(rejected hunks)
+@@ -4,6 +4,7 @@
+     render() {
+         return (
+             <div>
++                我是李四
+             </div>
+         )
+     }
